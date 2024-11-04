@@ -1,4 +1,4 @@
-# U6S1-Creating a Class
+# U7S1-Creating a Class
 
 * Part A - Foundations 7.1
 * Part B - Test Driven Development
